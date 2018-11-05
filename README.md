@@ -1,4 +1,7 @@
 # UAutomizer-linux
+
+Copyright (C) 2012-2017 University of Freiburg
+
 * The UAutomizer-linux package has been downloaded from the below link
 	https://github.com/ultimate-pa/ultimate/releases/download/v0.1.23/UltimateAutomizer-linux.zip
   The following changes are done in the downloaded package:
