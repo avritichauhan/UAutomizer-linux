@@ -21,6 +21,13 @@ This archive also contains binaries for different theorem provers:
      master 870017e2ceb5da85f5c7314bd7b35ca865af9a97
  * CVC4 (http://cvc4.cs.nyu.edu/)
    04-Aug-2016 05:31
+ * MathSAT5 (http://mathsat.fbk.eu)  
+   - Windows
+     MathSAT5 version 50d9330d8efd 
+     (Nov 16 2017 22:42:29, gmp 5.0.1, gcc 6.3.0, 64-bit)
+   - Linux 
+     MathSAT5 version 50d9330d8efd 
+     (Nov 16 2017 22:36:38, gmp 5.1.3, gcc 4.8.4, 64-bit)
 
 -------------------------------------------------------------------------------
 
@@ -91,3 +98,4 @@ property is violated or not. The output can be one of the following:
   Indicates an abnormal termination of Ultimate due to some error. MSG usually
   describes the error.
   
+
